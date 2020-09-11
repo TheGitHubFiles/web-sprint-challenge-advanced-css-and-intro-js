@@ -204,7 +204,7 @@ button:hover {
 .artist img {
   width: 100%;
 }
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .artists-container div {
     width: 100%;
   }
